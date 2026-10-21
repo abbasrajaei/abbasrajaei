@@ -10,7 +10,7 @@ I am seeking PhD opportunities in chemical engineering, with particular interest
 
 ## Selected research and engineering work
 
-### [CO₂ mineralisation from steel and cement wastes](https://github.com/abbasrajaei/industrial-waste-co2-mineralization)
+### [Indirect CO₂ Mineralisation Using Steel Slag and Cement Kiln Dust](https://github.com/abbasrajaei/Indirect-CO2-Mineralisation-Steel-Slag-and-Cement-Kiln-Dust)
 
 Experimental development of an indirect mineral carbonation process: selective calcium extraction, staged pH-swing purification, CO₂ capture, and calcium carbonate production.
 
@@ -18,15 +18,15 @@ Experimental development of an indirect mineral carbonation process: selective c
 - Combined design of experiments, material characterisation, and calcium and CO₂ mass balances.
 - Presented the work at the UKCCSRC Knowledge Exchange Conference 2024; the research poster received third place in the poster competition.
 
-**Explore:** [BOF slag case study](https://github.com/abbasrajaei/industrial-waste-co2-mineralization/tree/main/bof-slag) · [Cement kiln dust case study](https://github.com/abbasrajaei/industrial-waste-co2-mineralization/tree/main/cement-kiln-dust)
+**Explore:** [BOF slag case study](https://github.com/abbasrajaei/Indirect-CO2-Mineralisation-Steel-Slag-and-Cement-Kiln-Dust/tree/main/bof-slag) · [Cement kiln dust case study](https://github.com/abbasrajaei/Indirect-CO2-Mineralisation-Steel-Slag-and-Cement-Kiln-Dust/tree/main/cement-kiln-dust)
 
-### [Hydrogen-rich cryogenic expansion](https://github.com/abbasrajaei/Hydrogen-Rich-Cryogenic-Expansion)
+### [Thermodynamic Model Assessment for Hydrogen-Rich Cryogenic Expansion](https://github.com/abbasrajaei/Thermodynamic-Model-Assessment-Hydrogen-Rich-Cryogenic-Expansion)
 
 Ongoing assessment of thermodynamic models for hydrogen-rich gas expansion, combining pure-hydrogen property benchmarking with an industrial two-stage turbo-expander validation case.
 
 The central question is whether agreement in density and compressibility is sufficient when expansion predictions depend on heat capacity, enthalpy, and entropy. The public repository presents the research questions, methodology, and selected supporting benchmarks.
 
-**Explore:** [Pure-hydrogen EOS benchmark](https://github.com/abbasrajaei/Hydrogen-Rich-Cryogenic-Expansion/blob/main/data/public/Pure_H2_EOS_Benchmark.xlsx)
+**Explore:** [Pure-hydrogen EOS benchmark](https://github.com/abbasrajaei/Thermodynamic-Model-Assessment-Hydrogen-Rich-Cryogenic-Expansion/blob/main/data/public/Pure_H2_EOS_Benchmark.xlsx)
 
 ### [Pyrolysis Furnace Intelligence](https://github.com/abbasrajaei/Pyrolysis-Furnace-Intelligence)
 
