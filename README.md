@@ -32,19 +32,8 @@ The central question is whether agreement in density and compressibility is suff
 
 A reduced-order engineering model and Windows application connecting fuel composition and combustion with furnace heat transfer and process response. Developed from industrial furnace experience and first-principles engineering for sensitivity analysis and engineering study.
 
-The public portfolio documents the engineering basis, model boundaries, and application views.
-
 **Explore:** [Windows application on Microsoft Store](https://apps.microsoft.com/detail/9NB6K57T831H?hl=en-us&gl=GB)
 
-## Methods and research approach
-
-| Experimental work | Modelling and analysis |
-| --- | --- |
-| Design of experiments and selective leaching | Equation-of-state benchmarking |
-| pH-swing purification and mineral carbonation | Cryogenic expansion and thermodynamic-property assessment |
-| Interpretation of ICP-OES, XRF, XRD, and SEM-EDS results | Mass and energy balances, combustion and heat-transfer analysis |
-
-Across these projects, I focus on explaining the physical mechanisms behind observed behaviour and making the assumptions and limits of each study clear.
 
 ## Academic background and contact
 
@@ -52,4 +41,4 @@ Across these projects, I focus on explaining the physical mechanisms behind obse
 
 For academic background and professional contact, see my [ORCID record](https://orcid.org/0009-0000-7195-0087) and [LinkedIn profile](https://www.linkedin.com/in/abbas-rajaei).
 
-*This profile links to selected public research and engineering material. Project-specific data availability and confidentiality boundaries are described in the individual repositories.*
+
