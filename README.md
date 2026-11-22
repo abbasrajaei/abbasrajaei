@@ -37,10 +37,8 @@ A reduced-order engineering model and Windows application connecting fuel compos
 
 ## Academic coursework and MSc dissertation
 
-- **[MSc hydrogen transport research](academic-projects/msc-hydrogen-transport-research/README.md)** — Published hydrate-equilibrium study and separate hydrogen-pipeline hydraulics modelling, including reduced-order correlations.
-- **[gPROMS desalination modelling coursework](academic-projects/gproms-msf-desalination/README.md)** — Steady-state and dynamic simulation of multi-stage flash desalination with stage-number and cost trade-offs.
-
-*These pages currently contain technical summaries. The manuscript PDF, graphical abstract and coursework PDF have not yet been uploaded to GitHub.*
+- **[MSc hydrogen transport research](https://github.com/abbasrajaei/msc-hydrogen-transport-research)** — Published hydrate-equilibrium research linked to its journal DOI, plus a separate unpublished hydrogen-pipeline hydraulics manuscript and graphical abstract.
+- **[gPROMS desalination modelling coursework](https://github.com/abbasrajaei/gproms-msf-desalination)** — Complete coursework PDF, simulation figures and technical results for multi-stage flash desalination.
 
 ## Academic background and contact
 
